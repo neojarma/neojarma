@@ -12,8 +12,6 @@
 
 <h2> About Me </h2>
 
-<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🌱 I’m currently learning Go, Flutter, Docker
 
 - 👯 I’m looking to collaborate on Projects
@@ -38,6 +36,7 @@
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/neojarmawijaya/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
+<br>
 <br>
 <br>
 
