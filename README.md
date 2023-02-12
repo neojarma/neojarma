@@ -12,7 +12,7 @@
 
 <h2> About Me </h2>
 
-- 🌱 I’m currently learning Go, Flutter, Docker
+- 🌱 I’m currently learning Go, Docker, Microservices
 
 - 👯 I’m looking to collaborate on Projects
 
